@@ -13,11 +13,11 @@
 // Sample Input
 // 5
 // Sample Output
-// * 	* 	*   *   *		  
-// * 	*	      *   *
-// * 	            *
-// * 	*       *   *
-// *   * 	*   *   *	
+// * 	*    *   *   *		  
+// * 	*	 *   *
+// * 	             *
+// * 	*        *   *
+// *    *    *   *   *	
 // Explanation
 // Each '*' is separated from other by a tab.
 import java.util.*;
